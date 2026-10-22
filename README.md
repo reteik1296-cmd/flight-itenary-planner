@@ -55,7 +55,7 @@ processed_data.csv
 - **Two optimization criteria:** Uses BFS to minimize the number of edges and Dijkstra's algorithm to minimize the sum of edge weights.
 - **Path reconstruction:** Tracks parent nodes during graph traversal to reconstruct and display the selected itinerary.
 
-Both algorithms operate on the same graph. BFS ignores fare weights, whereas Dijkstra uses them to determine the lowest-cost route.
+Both algorithms operate on same graph. BFS ignores fare weights, whereas Dijkstra uses them to determine the lowest-cost route.
 
 ## Algorithms and Complexity
 
